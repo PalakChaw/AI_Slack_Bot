@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+
+# Database
+chroma_db/
